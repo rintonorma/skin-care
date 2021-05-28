@@ -64,12 +64,10 @@ export default {
             {
               "breakpoint": 480,
               "settings": {
-                "slidesToShow": 2,
+                "slidesToShow": 1,
                 "slidesToScroll": 1,
                 "dots": true,
                 "arrow": false,
-                "centerMode": true,
-                "centerPadding": "10px",
               }
             }
           ]
@@ -88,7 +86,7 @@ export default {
 @media (max-width: 767px){
     #hero-carousel{
       h3{
-        margin: 5px;
+        margin: 0px;
       }
       .container{
         padding: 0;

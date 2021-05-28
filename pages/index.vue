@@ -559,11 +559,13 @@
         </VCarousel>
       </div>
     </section>
+    <MobileNav></MobileNav>
   </div>
 </template>
 
 <script>
 import FlashNews from '../components/FlashNews.vue'
+import MobileNav from '../components/MobileNav.vue'
 import VCarousel from 'vue-slick-carousel'
 import { StarIcon } from 'vue-feather-icons'
 
@@ -574,6 +576,7 @@ export default {
   components: {
     FlashNews,
     VCarousel,
+    MobileNav,
     StarIcon
   },
 
@@ -642,7 +645,8 @@ export default {
             "settings": {
               "slidesToShow": 1,
               "slidesToScroll": 1,
-              "arrows": true,
+              "arrows": false,
+              "dots": true,
             }
           }
         ]
@@ -744,10 +748,10 @@ export default {
 
   .slick-slider {
     .slick-prev{
-      opacity: 1;
+      //opacity: 1;
     }
     .slick-next{
-      opacity: 1;
+      //opacity: 1;
     }
   }
 }
@@ -782,7 +786,6 @@ export default {
       }
 
       .card{
-        border: 1px solid #ddd;
         margin: 10px 5px;
       }
     }

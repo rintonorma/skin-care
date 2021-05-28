@@ -28,9 +28,9 @@ export default {
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '@/assets/css/main.css',
-    // '@/assets/css/default.scss',
-    // '@/assets/css/vue-datetime.css',
-    // '@/assets/css/vue2-daterange-picker.css',
+    '@/assets/css/default.scss',
+    '@/assets/css/vue-datetime.css',
+    '@/assets/css/vue2-daterange-picker.css',
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

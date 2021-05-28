@@ -128,7 +128,7 @@
             <button type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-            <div id="navbarContent" class="collapse navbar-collapse">
+            <div id="navbarContent" class="collapse navbar-collapse no-transition">
               <ul class="navbar-nav mx-auto">
                 <!-- Megamenu-->
                 <li class="nav-item dropdown megamenu"><a id="megamneu" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle text-uppercase">Brand</a>
@@ -270,7 +270,7 @@ export default {
 }
 .bs-megamenu{
   background: #fff;
-  //box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+  box-shadow: 0 0.8rem 1rem rgb(0 0 0 / 5%);
   padding: 0;
 
   .nav-link{
@@ -297,6 +297,10 @@ export default {
       display: none;
     }
 
+    .nav-link{
+      font-size: 16px;
+    }
+
     .navbar-toggler{
       .navbar-toggler-icon{
         width: 1em;
@@ -304,7 +308,7 @@ export default {
     }
     .navbar-toggler[aria-expanded="true"]{
       .navbar-toggler-icon{
-        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24' stroke='white' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round' class='css-i6dzq1'%3E%3Cline x1='18' y1='6' x2='6' y2='18'%3E%3C/line%3E%3Cline x1='6' y1='6' x2='18' y2='18'%3E%3C/line%3E%3C/svg%3E");
+        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24' stroke='black' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round' class='css-i6dzq1'%3E%3Cline x1='18' y1='6' x2='6' y2='18'%3E%3C/line%3E%3Cline x1='6' y1='6' x2='18' y2='18'%3E%3C/line%3E%3C/svg%3E");
         transform: translateY(0px); 
         width: 1.5em; 
       }
