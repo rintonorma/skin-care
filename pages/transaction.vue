@@ -65,7 +65,7 @@
 	                            <div class="transaction-list">
 	                                <div class="tl-header">
 	                                    <div class="tl-date">21 Des 2020</div>
-	                                    <div class="tl-label text-success">Selesai</div>
+	                                    <div class="tl-label text-success fw-bold">Selesai</div>
 	                                </div>
 	                                <div class="tl-subheader">
 	                                    <div class="col-12 col-lg-5">
@@ -78,7 +78,7 @@
 	                                    </div>
 	                                    <div class="col-12 col-lg-3">
 	                                        <div class="tl-sm">Total Belanja</div>
-	                                        <div class="tl-p fw-bold text-warning font-lg">Rp29.900</div>
+	                                        <div class="tl-p fw-bold text-primary font-lg">Rp29.900</div>
 	                                    </div>
 	                                </div>
 	                                <div class="tl-main">
@@ -91,18 +91,18 @@
 	                                                <div class="title ellipsis-two-line">
 	                                                    <span class="">ONE-X transformer iRing bracket stand holder Ring</span>
 	                                                </div>
-	                                                <small class="text-warning">Rp19.900</small>
+	                                                <small class="text-dark">Rp19.900</small>
 	                                                <small class="text-secondary">1 barang (1000gr)</small>
 	                                            </a>
 	                                        </div>
 	                                        <div class="product-item col-12 col-lg-4">
 	                                            <div class="mb-2">
 	                                                <div class="tl-sm">Total Harga Produk</div>
-	                                                <div class="tl-p fw-bold text-warning">Rp19.900</div>
+	                                                <div class="tl-p fw-bold text-dark">Rp19.900</div>
 	                                            </div>
 	                                        </div>
 	                                        <div class="col-12 col-lg-3">
-	                                            <a href="#" class="btn btn-success ml-auto">Beli lagi</a>
+	                                            <a href="#" class="btn btn-primary ml-auto">Beli lagi</a>
 	                                        </div>
 	                                    </div>
 	                                    <div class="product-row">
@@ -121,7 +121,7 @@
 	                            <div class="transaction-list">
 	                                <div class="tl-header">
 	                                    <div class="tl-date">21 Des 2020</div>
-	                                    <div class="tl-label text-warning">Menunggu pembayaran</div>
+	                                    <div class="tl-label text-warning fw-bold">Menunggu pembayaran</div>
 	                                </div>
 	                                <div class="tl-subheader">
 	                                    <div class="col-12 col-lg-5">
@@ -134,7 +134,7 @@
 	                                    </div>
 	                                    <div class="col-12 col-lg-3">
 	                                        <div class="tl-sm">Total Pembayaran</div>
-	                                        <div class="tl-p fw-bold text-warning font-lg">Rp20.000</div>
+	                                        <div class="tl-p fw-bold text-primary font-lg">Rp20.000</div>
 	                                    </div>
 	                                </div>
 	                                <div class="tl-main">
@@ -152,7 +152,7 @@
 	                                            </div>
 	                                        </div>
 	                                        <div class="col-12 col-lg-3">
-	                                            <a href="#" class="btn btn-warning ml-auto">Bayar sekarang</a>
+	                                            <a href="#" class="btn btn-primary ml-auto">Bayar sekarang</a>
 	                                        </div>
 	                                    </div>
 	                                    <div class="product-row">
@@ -170,7 +170,7 @@
 	                            <div class="transaction-list">
 	                                <div class="tl-header">
 	                                    <div class="tl-date">21 Des 2020</div>
-	                                    <div class="tl-label text-secondary">Pesanan Diproses</div>
+	                                    <div class="tl-label text-secondary fw-bold">Pesanan Diproses</div>
 	                                </div>
 	                                <div class="tl-subheader">
 	                                    <div class="col-12 col-lg-5">
@@ -183,7 +183,7 @@
 	                                    </div>
 	                                    <div class="col-12 col-lg-3">
 	                                        <div class="tl-sm">Total Belanja</div>
-	                                        <div class="tl-p fw-bold text-warning font-lg">Rp29.900</div>
+	                                        <div class="tl-p fw-bold text-primary font-lg">Rp29.900</div>
 	                                    </div>
 	                                </div>
 	                                <div class="tl-main">
@@ -196,7 +196,7 @@
 	                                                <div class="title ellipsis-two-line">
 	                                                    <span class="">ONE-X transformer iRing bracket stand holder Ring</span>
 	                                                </div>
-	                                                <small class="text-warning">Rp19.900</small>
+	                                                <small class="text-dark">Rp19.900</small>
 	                                                <small class="text-secondary">1 barang (1000gr)</small>
 	                                            </a>
 	                                        </div>
@@ -222,7 +222,7 @@
 	                            <div class="transaction-list">
 	                                <div class="tl-header">
 	                                    <div class="tl-date">21 Des 2020</div>
-	                                    <div class="tl-label text-secondary">Pesanan Dikirim</div>
+	                                    <div class="tl-label text-secondary fw-bold">Pesanan Dikirim</div>
 	                                </div>
 	                                <div class="tl-subheader">
 	                                    <div class="col-12 col-lg-5">
@@ -235,7 +235,7 @@
 	                                    </div>
 	                                    <div class="col-12 col-lg-3">
 	                                        <div class="tl-sm">Total Belanja</div>
-	                                        <div class="tl-p fw-bold text-warning font-lg">Rp29.900</div>
+	                                        <div class="tl-p fw-bold text-primary font-lg">Rp29.900</div>
 	                                    </div>
 	                                </div>
 	                                <div class="tl-main">
@@ -248,7 +248,7 @@
 	                                                <div class="title ellipsis-two-line">
 	                                                    <span class="">ONE-X transformer iRing bracket stand holder Ring</span>
 	                                                </div>
-	                                                <small class="text-warning">Rp19.900</small>
+	                                                <small class="text-dark">Rp19.900</small>
 	                                                <small class="text-secondary">1 barang (1000gr)</small>
 	                                            </a>
 	                                        </div>
@@ -259,7 +259,7 @@
 	                                            </div>
 	                                        </div>
 	                                        <div class="col-12 col-lg-3">
-	                                            <a href="./tracking.html" class="btn btn-outline-warning ml-auto">Cek resi</a>
+	                                            <a href="./tracking.html" class="btn btn-outline-success ml-auto">Cek resi</a>
 	                                        </div>
 	                                    </div>
 	                                    <div class="product-row">
@@ -277,7 +277,7 @@
 	                            <div class="transaction-list">
 	                                <div class="tl-header">
 	                                    <div class="tl-date">21 Des 2020</div>
-	                                    <div class="tl-label text-danger">Gagal</div>
+	                                    <div class="tl-label text-danger fw-bold">Gagal</div>
 	                                </div>
 	                                <div class="tl-subheader">
 	                                    <div class="col-12 col-lg-5">
@@ -290,7 +290,7 @@
 	                                    </div>
 	                                    <div class="col-12 col-lg-3">
 	                                        <div class="tl-sm">Total Belanja</div>
-	                                        <div class="tl-p fw-bold text-warning font-lg">Rp29.900</div>
+	                                        <div class="tl-p fw-bold text-primary font-lg">Rp29.900</div>
 	                                    </div>
 	                                </div>
 	                                <div class="tl-main">
@@ -303,18 +303,18 @@
 	                                                <div class="title ellipsis-two-line">
 	                                                    <span class="">ONE-X transformer iRing bracket stand holder Ring</span>
 	                                                </div>
-	                                                <small class="text-warning">Rp19.900</small>
+	                                                <small class="text-dark">Rp19.900</small>
 	                                                <small class="text-secondary">1 barang (1000gr)</small>
 	                                            </a>
 	                                        </div>
 	                                        <div class="product-item col-12 col-lg-4">
 	                                            <div class="mb-2">
 	                                                <div class="tl-sm">Total Harga Produk</div>
-	                                                <div class="tl-p fw-bold text-warning">Rp19.900</div>
+	                                                <div class="tl-p fw-bold text-dark">Rp19.900</div>
 	                                            </div>
 	                                        </div>
 	                                        <div class="col-12 col-lg-3">
-	                                            <a href="#" class="btn btn-warning ml-auto">Beli lagi</a>
+	                                            <a href="#" class="btn btn-primary ml-auto">Beli lagi</a>
 	                                        </div>
 	                                    </div>
 	                                    <div class="product-row">

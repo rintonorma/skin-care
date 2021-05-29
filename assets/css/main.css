@@ -109,6 +109,9 @@ section{
 .text-primary {
     color: #e9549e!important;
 }
+.text-warning {
+    color: #ff8607!important;
+}
 .feather {
   width: 18px;
   height: 18px;
@@ -127,6 +130,11 @@ section{
 .form-control{
   border-radius: 0;
 }
+.btn-link {
+    font-weight: 400;
+    color: #e9549e;
+    text-decoration: underline;
+}
 .btn-primary {
     color: #fff;
     background-color: #e9549e;
@@ -136,6 +144,15 @@ section{
     color: #fff;
     background-color: #ce4187;
     border-color: #ce4187;
+}
+.btn-outline-primary {
+    color: #ea539e;
+    border-color: #ea539e;
+}
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #e9549e;
+    border-color: #ea539e;
 }
 .btn-facebook {
     color: #fff;
@@ -485,7 +502,7 @@ section{
 }
 .inputdate{
   padding: 5px 15px;
-  border-radius: 50px;
+  border-radius: 0px;
   border: 1px solid #ced4da;
   width: 100%;
 }
@@ -602,9 +619,9 @@ section{
   color: #3D3D3D;
 }
 .nav-side-menu ul .active, .nav-side-menu li .active {
-    -webkit-box-shadow: inset -5px 0px 0px 0px rgb(6 150 153);
-    -moz-box-shadow: inset -5px 0px 0px 0px rgb(6 150 153);
-    box-shadow: inset -5px 0px 0px 0px rgb(6 150 153);
+    -webkit-box-shadow: inset -5px 0px 0px 0px rgb(233 84 158);
+    -moz-box-shadow: inset -5px 0px 0px 0px rgb(233 84 158);
+    box-shadow: inset -5px 0px 0px 0px rgb(233 84 158);
     background-color: #fff;
     font-weight: 700;
 }
